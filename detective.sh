@@ -19,7 +19,7 @@ echo -e "⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠘⠿⣿⠿⠋⠀�
 echo -e "⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁"
 
 #!/bin/bash
-echo "detective@127.0.0.1: "
+echo "Welcome, Here you can find all information about your victim.. "
 
 # Operating system names are used here as a data source
 select number in Website Phonenumber Personal Image IP Exit.. 
@@ -37,10 +37,15 @@ python3 phoneinfo.py
 "Personal")
 python3 personal.py
 ;;
+"Image")
+echo "Enter image name: "
+read name
+exiftool $name
+;;
 "IP")
 python3 ip.py
 # Matching with invalid data
-*)
+"Exit..")
 echo "Invalid entry."
 break
 ;;
