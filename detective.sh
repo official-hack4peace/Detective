@@ -20,7 +20,7 @@ echo -e "$blue⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠘⠿⣿⠿⠋
 echo -e "$blue⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁ $rset"
 
 #!/bin/bash
-echo "$grn Welcome, Here you can find all information about your victim.. "
+echo -e "$grn Welcome, Here you can find all information about your victim.. "
 
 # Operating system names are used here as a data source
 select number in Website Phonenumber Account Image IP Exit 
