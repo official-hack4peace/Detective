@@ -18,10 +18,10 @@ echo -e "$blue⠀                  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡈⠛⢷⠀
 echo -e "$blue⠀                  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⢸⣿⣿⣷⣦⠀⠀⢸⡇ $rset"⠀⠀⠀⠀
 echo -e "$blue⠀                  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠘⠿⣿⠿⠋⠀⠀⣸⡇ $rset"⠀⠀⠀
 echo -e "$blue⠀                  ⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁ $rset"
-echo -e "$blue                  Created by Mrx $rset"
-echo -e "$blue   GitHub: https://github.com/official-hack4peace $rset"
+echo -e "$blue                      Created by Mrx $rset"
+echo -e "$blue       GitHub: https://github.com/official-hack4peace $rset"
 echo -e "$blue   Instagram: https://instagram.com/anonymous_010101010101010 $rset"
-echo -e "$blue   YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg $rset"
+echo -e "$blue  YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg $rset"
 #!/bin/bash
 echo -e "$grn Welcome, Here you can find all information about your victim.. "
 
