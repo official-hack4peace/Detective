@@ -3,6 +3,7 @@ blue="\e[94m"
 grn="\e[92m"
 rset="\e[0m"
 # Ascii
+clear
 echo -e "$blue⠀⠀                       ⠀⠀⠀⣀⡀ $rset"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 echo -e "$blue⠀⠀⠀⠀⠀⠀                ⠀⠀⣠⣴⣾⣿⣿⣷⣶⣤. $rset"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 echo -e "$blue⠀⠀⠀⠀⠀                ⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦ $rset"⠀⠀⠀⠀⠀⠀⠀⠀⠀
