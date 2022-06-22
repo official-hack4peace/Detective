@@ -7,6 +7,7 @@ Find every information about your victim in just few seconds.
 1. Windows 💻
 2. Linux 💻
 3. Android 📱
+Works on both non-rooted and rooted
 # requirements
 Python3, Git, Modules (socket, request, phonenumbers, pprint)
 # installation
