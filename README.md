@@ -7,6 +7,8 @@ Find every information about your victim in just few seconds.
 1. Windows 💻
 2. Linux 💻
 3. Android 📱
+# requirements
+Python3, Git, Modules (socket, request, phonenumbers, pprint)
 # installation
 1. $ git clone https://github.com/official-hack4peace/Detective
 2. $ cd detective
@@ -14,3 +16,5 @@ Find every information about your victim in just few seconds.
 4. $ chmod+x detective.sh
 5. $ bash setup.sh
 6. $ bash detective.sh
+# Thanks
+Thank you for using my tool :)
