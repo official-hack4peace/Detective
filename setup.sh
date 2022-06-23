@@ -3,7 +3,7 @@ rset="\e[0m"
 echo -e "$grn     ___  ___  ___  _ _  ___ $rset" 
 echo -e "$grn    / __>| __>|_ _|| | || . \ $rset"
 echo -e "$grn    \__ \| _>  | | | ' ||  _/ $rset"
-echo -e "$grn    <___/|___> |_| `___'|_| $rset"  
+echo -e "$grn    <___/|___> |_| |___||_| $rset"  
 
 apt install git
 apt install python3
