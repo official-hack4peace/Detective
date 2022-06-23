@@ -1,8 +1,9 @@
 grn="\e[92m"
-echo -e "$grn  ___  ___  ___  _ _  ___" 
-echo -e "     / __>| __>|_ _|| | || . \"
-echo -e "     \__ \| _>  | | | ' ||  _/"
-echo -e "     <___/|___> |_| `___'|_|"  
+rset="\e[0m"
+echo -e "$grn  ___  ___  ___  _ _  ___ $rset" 
+echo -e "     / __>| __>|_ _|| | || . \ $rset"
+echo -e "     \__ \| _>  | | | ' ||  _/ $rset"
+echo -e "     <___/|___> |_| `___'|_| $rset"  
 
 apt install git
 apt install python3
