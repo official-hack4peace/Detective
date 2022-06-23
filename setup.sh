@@ -12,3 +12,4 @@ pip3 install request
 pip3 install pprint
 pip3 install socket
 pip3 install phonenumbers
+pip3 install bs4
