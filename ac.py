@@ -1,4 +1,7 @@
 from instabot import Bot
+import requests
+vi = requests.get(url)
+print(vi.text)
 user = input("Enter username: ")
 pass = input("Enter password: ")
 bot = Bot()
