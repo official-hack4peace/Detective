@@ -1,5 +1,6 @@
 from instabot import Bot
 import requests
+url = input("Enter url with username: ")
 vi = requests.get(url)
 print(vi.text)
 user = input("Enter username: ")
