@@ -26,7 +26,7 @@ echo -e "$blue  YouTube: https://youtube.com/channel/UCHTT9mz7Fdtn3TdotMjynGg $r
 #!/bin/bash
 echo -e "$grn Welcome, Here you can find all information about your victim.. "
 
-# Operating system names are used here as a data source
+# Option
 select number in Website Phonenumber Account Image IP Exit 
 do
 
@@ -35,7 +35,6 @@ case $number in
 "Website")
 python3 webinfo.py
 ;;
-# Three case values are declared here for matching
 "Phonenumber")
 python3 phoneinfo.py
 ;;
